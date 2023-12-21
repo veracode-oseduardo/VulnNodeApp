@@ -1,4 +1,4 @@
-# VulnNodeApp
+# VulnNodeApp - Prueba Oscar
 A vulnerable application made using node.js, express server and ejs template engine. This application is meant for educational purposes only. 
 
 ![VulnNodeApp](https://github.com/4auvar/VulnNodeApp/blob/master/vulnnodeapp.png)
